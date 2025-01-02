@@ -45,6 +45,9 @@ A static and responsive portfolio website showcasing the skills, projects, and c
    - Use the navigation bar to browse the other pages (About, Skills, Projects, Contact).
 
 ---
+## Output
+
+![Alt text](Output.png)
 
 ## Technologies Used
 
