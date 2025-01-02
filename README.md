@@ -67,7 +67,7 @@ A static and responsive portfolio website showcasing the skills, projects, and c
 **Saravana P**  
 Web Developer passionate about creating responsive and user-friendly websites.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or reach out via email at `saravana.p@example.com`.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or reach out via email at `saravanaprashanthkumar@gmail.com`.
 
 ---
 
